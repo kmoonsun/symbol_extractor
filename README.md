@@ -7,7 +7,8 @@ Parse function names from the result of ```clang -Xclang -ast-dump``` provided b
 
 ## Running
 ```sh
-python3 symbol_extractor.py
+python3 symbol_extractor.py [folder]
 ```
 
 ## Result
+![image](https://user-images.githubusercontent.com/48425176/143532611-db74d1db-1f59-483e-ac89-87dc62328b65.png)
