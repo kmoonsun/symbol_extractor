@@ -21,7 +21,8 @@ The result is stored in ```symbol.json```
 				"name": "interface.c",
 				"symbols": [
 					"_IO_getc",
-					"papi_sde_compare_float",
+					"getline",
+					"popen"
 					"_IO_vfscanf",
 					"fdopen",
 					"printf",
