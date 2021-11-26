@@ -5,6 +5,9 @@ It uses the AST of clang 6.0.0.
 
 Parse function names from the result of 'clang -Xclang -ast-dump'.
 
+## Running
 ```sh
 python3 symbol_extractor.py
 ```
+
+## Result
